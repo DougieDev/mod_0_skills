@@ -1,0 +1,11 @@
+Hurricane's Wings
+
+foodServed: ['wings', 'burgers', 'fries']
+isDelicious: false
+location: "West Palm Beach"
+numSauces: 20
+
+addFood: foodServed = ['wings', 'burgers', 'fries', 'salads']
+yummy: isDelicious = true
+changeLocation: location = "Miami"
+addSauce: numSauces = 21

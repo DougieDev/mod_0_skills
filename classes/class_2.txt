@@ -1,0 +1,13 @@
+class Restaurant
+
+--ATTRIBUTES--
+foodServed (array)
+isDelicious (boolean)
+location (string)
+numSauces (integer)
+
+--METHODS--
+addFood (modify the foodServed attribute)
+yummy (set isDelicious to true)
+changeLocation (modify the location attribute)
+addSauce (modify the numSauces attribute by 1)

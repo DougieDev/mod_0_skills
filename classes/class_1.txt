@@ -1,0 +1,13 @@
+class Restaurant
+
+--ATTRIBUTES--
+isOpen (boolean)
+foodType (array)
+owner (string)
+numOccupants (integer)
+
+--METHODS--
+close (set isOpen to false)
+addFood (modify the foodType attribute)
+capitalizeOwner (modify the owner attribute)
+addOccupants (modifies the numOccupants attribute by 5)

@@ -1,0 +1,11 @@
+Bellagio Buffet
+
+isOpen: true
+foodType: ['bbq', 'greek', 'asian']
+owner: "stephen"
+numOccupants: 40
+
+close: isOpen = false
+addFood: foodType = ['bbq', 'greek', 'asian', 'italian']
+capitalizeOwner: owner = "Stephen"
+addOccupants: numOccupants = 45
